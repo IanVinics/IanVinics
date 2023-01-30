@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil IanVinics 😁
+## Bem-vindo(a) ao perfil IanVinics
 
  <div>
    <a href="https://github.com/IanVinics">
