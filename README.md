@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil IanVinics
+##Bem-vindo(a) ao meu perfil
 
  <div>
    <a href="https://github.com/IanVinics">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IanVinics&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanVinics&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanVinics&layout=compact&langs_count=6&theme=midnight-purple"/>
 
 </div>
 <div style="display: inline_block"><br>
